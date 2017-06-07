@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
-  <name>pathtools</name>
+  <name>python-pathtools</name>
   <version>0.1.2</version>
   <description>File system general utilities</description>
-  <maintainer email="Thomas.Kostas@yujinrobot.com">Thomas Kostas</maintainer>
+  <maintainer email="tkostas75@gmail.com">Thomas Kostas</maintainer>
   
   <license>MIT</license>
 

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(pathtools)
+project(python-pathtools)
 
 ## Add support for C++11, supported in ROS Kinetic and newer
 # add_definitions(-std=c++11)
@@ -14,7 +14,7 @@ find_package(catkin REQUIRED
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
 
-catkin_pip_package(pathtools)
+catkin_pip_package(python-pathtools)
 
 ## Uncomment this if the package has a setup.py. This macro ensures
 ## modules and global scripts declared therein get installed
